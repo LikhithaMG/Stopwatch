@@ -1,0 +1,18 @@
+#dispaly{
+    height:50px;
+    width:200px;
+    background-color:lightsalmon;
+    font-size: 30px;
+    padding-top:20px;
+    border: 3px solid black;
+}
+#one,#two,#three{
+    background-color:black;
+    border:3px solid white;
+    color:white;
+    margin-top:10px;
+    height: 40px;
+    width: 90px;
+    font-size: 20px;
+    
+}
